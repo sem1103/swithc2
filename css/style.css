@@ -273,7 +273,7 @@ header p{
 .item{
     position: relative;
     max-width: 540px;
-    margin: 50 auto;
+    margin: 0 auto;
 }
 .item h5,h6{
    text-align: left;
